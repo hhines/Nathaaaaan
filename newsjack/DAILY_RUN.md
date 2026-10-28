@@ -14,7 +14,7 @@ cloud session on this repo. Each run:
    `newsjack-detector` skill to finish the analysis and write `run.md`.
 5. Copy `run.md` to `newsjack/runs/<YYYY-MM-DD>.md`, save any seen-state files the
    CLI keeps in `~/.newsjack/monitors/so-danca/` (everything except `runs/`,
-   `profile.json` and `brief.md`) back to `newsjack/state/`, commit and push to `main`.
+   `profile.json` and `brief.md`) back to `newsjack/state/`, commit and push to `master`.
 6. Post a short summary (pitch-ready stories first, otherwise "nothing
    pitch-ready" plus 3 notable things found) to the configured Slack channel.
 
