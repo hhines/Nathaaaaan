@@ -1,0 +1,75 @@
+{
+  "company": "So Danca",
+  "website": "https://sodanca.com",
+  "description": "Brazilian-founded maker of dance shoes and dancewear (ballet, pointe, jazz, character, tap) with its own factories in Brazil and the Dominican Republic, sold through dance retailers and studios in the US and more than 50 countries.",
+  "topics": [
+    "dancewear",
+    "dance shoes",
+    "ballet",
+    "dance education",
+    "dance studios",
+    "performing arts",
+    "footwear industry",
+    "athleisure"
+  ],
+  "competitors": [
+    "Capezio",
+    "Bloch",
+    "Gaynor Minden",
+    "Grishko",
+    "Freed of London",
+    "Sansha"
+  ],
+  "search_terms": [
+    "dancewear",
+    "dance shoes",
+    "ballet",
+    "dance education",
+    "dance studios",
+    "performing arts",
+    "footwear industry",
+    "athleisure",
+    "pointe shoes",
+    "tap dance",
+    "jazz dance",
+    "ballet company",
+    "dance competition",
+    "footwear tariffs",
+    "Capezio",
+    "Bloch dancewear",
+    "Gaynor Minden pointe",
+    "Grishko pointe shoes",
+    "Freed of London",
+    "Sansha dance"
+  ],
+  "feed_urls": [
+    "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=ballet+OR+%22dance+studio%22+OR+dancewear+OR+%22dance+shoes%22&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=%22pointe+shoes%22+OR+Capezio+OR+Bloch+OR+%22Gaynor+Minden%22&hl=en-US&gl=US&ceid=US:en"
+  ],
+  "x_news": {
+    "enabled": true
+  },
+  "x_trends": {
+    "mode": "none",
+    "woeids": [],
+    "locations": []
+  },
+  "spokespeople": [
+    "So Danca USA leadership (Ransan family)",
+    "Product / design lead for footwear"
+  ],
+  "proof_assets": [
+    "Product pages for ballet, pointe, jazz, character and tap shoes",
+    "Own manufacturing in Brazil (since 1986) and the Dominican Republic (since 2008)",
+    "Distribution in more than 50 countries",
+    "Teacher program (sodanca.com/pages/for-teachers)"
+  ],
+  "standing": [
+    "dance footwear design and fit",
+    "dancewear manufacturing and supply chain",
+    "dance retail and studio market",
+    "dancer foot health and shoe fitting"
+  ],
+  "exclusions": []
+}
