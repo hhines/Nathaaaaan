@@ -45,7 +45,7 @@
   "feed_urls": [
     "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=ballet+OR+%22dance+studio%22+OR+dancewear+OR+%22dance+shoes%22&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22pointe+shoes%22+OR+Capezio+OR+Bloch+OR+%22Gaynor+Minden%22&hl=en-US&gl=US&ceid=US:en"
+    "https://news.google.com/rss/search?q=%28%22pointe+shoes%22+OR+Capezio+OR+%22Gaynor+Minden%22+OR+Bloch+OR+Grishko+OR+Sansha%29+%28dance+OR+ballet+OR+dancewear%29+when%3A7d&hl=en-US&gl=US&ceid=US:en"
   ],
   "x_news": {
     "enabled": true
